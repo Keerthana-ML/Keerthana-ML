@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Keerthana
 
-<!--
-**Keerthana-ML/Keerthana-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year CSE Student at Siddaganga Institute of Technology  
+💻 Interested in Python, Web Development, and Problem Solving  
+🚀 Exploring Open Source and Real-World Projects  
+🌱 Currently learning Data Structures and Web Technologies and python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C Programming
+- Python
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+### 🔹 FindMyStuff
+Lost and Found web application with:
+- Image upload
+- Search functionality
+- Claim system
+
+### 🔹 Daily Spend Tracker
+A personal finance tracker with:
+- Expense history
+- Monthly tracking
+- Savings section
+- PDF export
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/keerthana-m-l-1bb01739b
+- Email: keerthanasheela1234@gmail.com
