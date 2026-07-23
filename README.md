@@ -33,5 +33,5 @@ A personal finance tracker with:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/keerthana-m-l-1bb01739b
-- Email: keerthanam0001@gmail.com
+- LinkedIn: https://www.linkedin.com/in/keerthana-m-l/
+- Email: keerthanaml0001@gmail.com
